@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "4b76a587-d153-456e-b62b-814409ba18ba",
     "Name": "MGSTestProcess",
-    "ModifiedOnUtc": "\/Date(1749021663000)\/",
+    "ModifiedOnUtc": "\/Date(1749042479000)\/",
     "ManagerName": "ProcessSchemaManager",
     "Caption": "Test Process",
     "DependsOn": []
